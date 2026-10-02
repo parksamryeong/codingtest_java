@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "12928",
+    "title": "약수의 합",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12928] 약수의 합",
+    "lastRun": "2026-10-02T14:09:06.052Z"
+  },
+  {
     "lessonId": "12937",
     "title": "짝수와 홀수",
     "level": "1",
