@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "12937",
+    "title": "짝수와 홀수",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12937] 짝수와 홀수",
+    "lastRun": "2026-10-02T14:05:56.646Z"
+  },
+  {
     "lessonId": "12944",
     "title": "평균 구하기",
     "level": "1",
