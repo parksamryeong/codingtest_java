@@ -34,5 +34,14 @@
     "status": "passed",
     "path": "programmers/연습문제/[Lv1][12944] 평균 구하기",
     "lastRun": "2026-10-02T14:02:22.811Z"
+  },
+  {
+    "lessonId": "12954",
+    "title": "x만큼 간격이 있는 n개의 숫자",
+    "level": "1",
+    "category": "연습문제",
+    "status": "failed",
+    "path": "programmers/연습문제/[Lv1][12954] x만큼 간격이 있는 n개의 숫자",
+    "lastRun": "2026-10-02T14:24:53.725Z"
   }
 ]
