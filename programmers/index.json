@@ -45,6 +45,15 @@
     "lastRun": "2026-10-02T14:09:06.052Z"
   },
   {
+    "lessonId": "42576",
+    "title": "완주하지 못한 선수",
+    "level": "1",
+    "category": "해시",
+    "status": "unknown",
+    "path": "programmers/해시/[Lv1][42576] 완주하지 못한 선수",
+    "lastRun": "2026-10-03T11:58:04.711Z"
+  },
+  {
     "lessonId": "12931",
     "title": "자릿수 더하기",
     "level": "1",
