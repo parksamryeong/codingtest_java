@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "12916",
+    "title": "문자열 내 p와 y의 개수",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12916] 문자열 내 p와 y의 개수",
+    "lastRun": "2026-10-03T01:10:29.964Z"
+  },
+  {
     "lessonId": "12928",
     "title": "약수의 합",
     "level": "1",
