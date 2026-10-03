@@ -54,6 +54,15 @@
     "lastRun": "2026-10-02T14:02:22.811Z"
   },
   {
+    "lessonId": "12948",
+    "title": "핸드폰 번호 가리기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12948] 핸드폰 번호 가리기",
+    "lastRun": "2026-10-03T01:38:10.482Z"
+  },
+  {
     "lessonId": "12954",
     "title": "x만큼 간격이 있는 n개의 숫자",
     "level": "1",
