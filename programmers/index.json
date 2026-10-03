@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "12903",
+    "title": "가운데 글자 가져오기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12903] 가운데 글자 가져오기",
+    "lastRun": "2026-10-03T01:29:59.815Z"
+  },
+  {
     "lessonId": "12916",
     "title": "문자열 내 p와 y의 개수",
     "level": "1",
