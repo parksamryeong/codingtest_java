@@ -9,6 +9,15 @@
     "lastRun": "2026-10-03T01:29:59.815Z"
   },
   {
+    "lessonId": "87389",
+    "title": "나머지가 1이 되는 수 찾기",
+    "level": "1",
+    "category": "월간 코드 챌린지 시즌3",
+    "status": "passed",
+    "path": "programmers/월간 코드 챌린지 시즌3/[Lv1][87389] 나머지가 1이 되는 수 찾기",
+    "lastRun": "2026-10-04T07:33:14.297Z"
+  },
+  {
     "lessonId": "12916",
     "title": "문자열 내 p와 y의 개수",
     "level": "1",
