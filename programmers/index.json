@@ -90,6 +90,15 @@
     "lastRun": "2026-10-02T14:05:56.646Z"
   },
   {
+    "lessonId": "12940",
+    "title": "최대공약수와 최소공배수",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12940] 최대공약수와 최소공배수",
+    "lastRun": "2026-10-04T08:47:45.418Z"
+  },
+  {
     "lessonId": "12943",
     "title": "콜라츠 추측",
     "level": "1",
