@@ -27,6 +27,15 @@
     "lastRun": "2026-10-04T07:33:14.297Z"
   },
   {
+    "lessonId": "70128",
+    "title": "내적",
+    "level": "1",
+    "category": "월간 코드 챌린지 시즌1",
+    "status": "passed",
+    "path": "programmers/월간 코드 챌린지 시즌1/[Lv1][70128] 내적",
+    "lastRun": "2026-10-05T19:45:16.177Z"
+  },
+  {
     "lessonId": "12916",
     "title": "문자열 내 p와 y의 개수",
     "level": "1",
