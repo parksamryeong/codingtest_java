@@ -2,7 +2,7 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **18개** (테스트 통과 17개)
+- 총 문제 수: **18개** (테스트 통과 18개)
 - 난이도별: Lv1 18개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
@@ -16,7 +16,7 @@
 | ✅ 테스트 통과 | [완주하지 못한 선수](programmers/%ED%95%B4%EC%8B%9C/%5BLv1%5D%5B42576%5D%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98) | Lv1 | 해시 | 2026. 10. 3. 오후 9:48:19 |
 | ✅ 테스트 통과 | [자릿수 더하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12931%5D%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:18:16 |
 | ✅ 테스트 통과 | [정수 제곱근 판별](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12934%5D%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84) | Lv1 | 연습문제 | 2026. 10. 4. 오후 4:42:20 |
-| 🔺 시도 중 | [제일 작은 수 제거하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12935%5D%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 6. 오전 4:05:07 |
+| ✅ 테스트 통과 | [제일 작은 수 제거하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12935%5D%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 6. 오전 4:08:00 |
 | ✅ 테스트 통과 | [짝수와 홀수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12937%5D%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:05:56 |
 | ✅ 테스트 통과 | [최대공약수와 최소공배수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12940%5D%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:47:45 |
 | ✅ 테스트 통과 | [콜라츠 추측](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12943%5D%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:14:52 |
