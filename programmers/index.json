@@ -9,6 +9,15 @@
     "lastRun": "2026-10-03T01:29:59.815Z"
   },
   {
+    "lessonId": "12910",
+    "title": "나누어 떨어지는 숫자 배열",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12910] 나누어 떨어지는 숫자 배열",
+    "lastRun": "2026-10-05T19:31:54.683Z"
+  },
+  {
     "lessonId": "87389",
     "title": "나머지가 1이 되는 수 찾기",
     "level": "1",
