@@ -45,6 +45,15 @@
     "lastRun": "2026-10-03T01:10:29.964Z"
   },
   {
+    "lessonId": "12917",
+    "title": "문자열 내림차순으로 배치하기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12917] 문자열 내림차순으로 배치하기",
+    "lastRun": "2026-10-06T19:16:12.002Z"
+  },
+  {
     "lessonId": "12919",
     "title": "서울에서 김서방 찾기",
     "level": "1",
