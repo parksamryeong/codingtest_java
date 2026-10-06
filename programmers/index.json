@@ -90,6 +90,15 @@
     "lastRun": "2026-10-02T14:18:16.043Z"
   },
   {
+    "lessonId": "12933",
+    "title": "정수 내림차순으로 배치하기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12933] 정수 내림차순으로 배치하기",
+    "lastRun": "2026-10-06T19:10:21.659Z"
+  },
+  {
     "lessonId": "12934",
     "title": "정수 제곱근 판별",
     "level": "1",
