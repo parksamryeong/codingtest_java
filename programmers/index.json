@@ -36,6 +36,15 @@
     "lastRun": "2026-10-05T19:45:16.177Z"
   },
   {
+    "lessonId": "12915",
+    "title": "문자열 내 마음대로 정렬하기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12915] 문자열 내 마음대로 정렬하기",
+    "lastRun": "2026-10-06T19:27:39.752Z"
+  },
+  {
     "lessonId": "12916",
     "title": "문자열 내 p와 y의 개수",
     "level": "1",
