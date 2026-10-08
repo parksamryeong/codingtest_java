@@ -54,6 +54,15 @@
     "lastRun": "2026-10-08T05:46:31.142Z"
   },
   {
+    "lessonId": "42840",
+    "title": "모의고사",
+    "level": "1",
+    "category": "완전탐색",
+    "status": "passed",
+    "path": "programmers/완전탐색/[Lv1][42840] 모의고사",
+    "lastRun": "2026-10-08T15:11:32.204Z"
+  },
+  {
     "lessonId": "12915",
     "title": "문자열 내 마음대로 정렬하기",
     "level": "1",
