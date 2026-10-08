@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **24개** (테스트 통과 24개)
-- 난이도별: Lv1 24개
+- 총 문제 수: **25개** (테스트 통과 25개)
+- 난이도별: Lv1 25개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -30,4 +30,5 @@
 | ✅ 테스트 통과 | [하샤드 수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12947%5D%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:30:35 |
 | ✅ 테스트 통과 | [핸드폰 번호 가리기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12948%5D%20%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 3. 오전 10:38:10 |
 | ✅ 테스트 통과 | [행렬의 덧셈](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12950%5D%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88) | Lv1 | 연습문제 | 2026. 10. 6. 오전 4:39:05 |
+| ✅ 테스트 통과 | [K번째수](programmers/%EC%A0%95%EB%A0%AC/%5BLv1%5D%5B42748%5D%20K%EB%B2%88%EC%A7%B8%EC%88%98) | Lv1 | 정렬 | 2026. 10. 8. 오후 2:36:07 |
 | ✅ 테스트 통과 | [x만큼 간격이 있는 n개의 숫자](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12954%5D%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:26:35 |

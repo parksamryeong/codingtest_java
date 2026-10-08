@@ -207,6 +207,15 @@
     "lastRun": "2026-10-05T19:39:05.974Z"
   },
   {
+    "lessonId": "42748",
+    "title": "K번째수",
+    "level": "1",
+    "category": "정렬",
+    "status": "passed",
+    "path": "programmers/정렬/[Lv1][42748] K번째수",
+    "lastRun": "2026-10-08T05:36:07.013Z"
+  },
+  {
     "lessonId": "12954",
     "title": "x만큼 간격이 있는 n개의 숫자",
     "level": "1",
