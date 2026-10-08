@@ -90,6 +90,15 @@
     "lastRun": "2026-10-03T01:42:13.789Z"
   },
   {
+    "lessonId": "12926",
+    "title": "시저 암호",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12926] 시저 암호",
+    "lastRun": "2026-10-08T06:46:22.292Z"
+  },
+  {
     "lessonId": "12928",
     "title": "약수의 합",
     "level": "1",
