@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "68935",
+    "title": "3진법 뒤집기",
+    "level": "1",
+    "category": "월간 코드 챌린지 시즌1",
+    "status": "passed",
+    "path": "programmers/월간 코드 챌린지 시즌1/[Lv1][68935] 3진법 뒤집기",
+    "lastRun": "2026-10-08T12:26:48.629Z"
+  },
+  {
     "lessonId": "12903",
     "title": "가운데 글자 가져오기",
     "level": "1",
