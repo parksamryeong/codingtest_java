@@ -117,6 +117,15 @@
     "lastRun": "2026-10-03T12:48:19.520Z"
   },
   {
+    "lessonId": "12930",
+    "title": "이상한 문자 만들기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "failed",
+    "path": "programmers/연습문제/[Lv1][12930] 이상한 문자 만들기",
+    "lastRun": "2026-10-08T08:48:23.261Z"
+  },
+  {
     "lessonId": "12931",
     "title": "자릿수 더하기",
     "level": "1",
