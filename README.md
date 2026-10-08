@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **30개** (테스트 통과 29개)
-- 난이도별: Lv1 30개
+- 총 문제 수: **31개** (테스트 통과 30개)
+- 난이도별: Lv1 31개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -30,6 +30,7 @@
 | ✅ 테스트 통과 | [짝수와 홀수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12937%5D%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:05:56 |
 | ✅ 테스트 통과 | [최대공약수와 최소공배수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12940%5D%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:47:45 |
 | ✅ 테스트 통과 | [콜라츠 추측](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12943%5D%20%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:14:52 |
+| ✅ 테스트 통과 | [크기가 작은 부분 문자열 ](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B147355%5D%20%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4) | Lv1 | 연습문제 | 2026. 10. 8. 오후 10:40:55 |
 | ✅ 테스트 통과 | [평균 구하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12944%5D%20%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:02:22 |
 | ✅ 테스트 통과 | [폰켓몬](programmers/%ED%95%B4%EC%8B%9C/%5BLv1%5D%5B1845%5D%20%ED%8F%B0%EC%BC%93%EB%AA%AC) | Lv1 | 해시 | 2026. 10. 3. 오후 10:41:39 |
 | ✅ 테스트 통과 | [하샤드 수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12947%5D%20%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:30:35 |

@@ -207,6 +207,15 @@
     "lastRun": "2026-10-04T08:14:52.199Z"
   },
   {
+    "lessonId": "147355",
+    "title": "크기가 작은 부분 문자열 ",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][147355] 크기가 작은 부분 문자열",
+    "lastRun": "2026-10-08T13:40:55.622Z"
+  },
+  {
     "lessonId": "12944",
     "title": "평균 구하기",
     "level": "1",
