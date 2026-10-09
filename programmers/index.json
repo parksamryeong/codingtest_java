@@ -18,6 +18,15 @@
     "lastRun": "2026-10-03T01:29:59.815Z"
   },
   {
+    "lessonId": "142086",
+    "title": "가장 가까운 같은 글자",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][142086] 가장 가까운 같은 글자",
+    "lastRun": "2026-10-09T18:12:06.733Z"
+  },
+  {
     "lessonId": "12910",
     "title": "나누어 떨어지는 숫자 배열",
     "level": "1",
