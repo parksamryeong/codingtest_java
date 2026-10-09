@@ -1,7 +1,7 @@
 class Solution {
     public String solution(String s) {
         String answer = "";
-        String[] words = s.split(" ");
+        String[] words = s.split(" ",-1);
         
         for(int i = 0; i < words.length; i++){
             for(int j = 0; j < words[i].length(); j++){
