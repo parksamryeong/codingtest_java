@@ -1,18 +1,19 @@
+import java.util.*;
+
 class Solution {
     public int[] solution(String s) {
         int[] answer = new int[s.length()];
-        
-        for(int i = 0; i < s.length(); i++){
-            char w = s.charAt(i);
-            answer[i] = -1;
-            
-            for(int j = 0; j < i; j++){
-                if(w == s.charAt(j)){
-                    answer[i] = i - j;
-                }
+        Map<Character, Integer> last = new HashMap<>();
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (last.containsKey(c)) {
+                answer[i] = i - last.get(c);
+            } else {
+                answer[i] = -1;
             }
+            last.put(c, i);
         }
-        
         return answer;
     }
 }
