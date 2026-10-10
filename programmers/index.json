@@ -216,6 +216,15 @@
     "lastRun": "2026-10-02T14:05:56.646Z"
   },
   {
+    "lessonId": "42862",
+    "title": "체육복",
+    "level": "1",
+    "category": "탐욕법(Greedy)",
+    "status": "passed",
+    "path": "programmers/탐욕법(Greedy)/[Lv1][42862] 체육복",
+    "lastRun": "2026-10-10T09:40:41.422Z"
+  },
+  {
     "lessonId": "12940",
     "title": "최대공약수와 최소공배수",
     "level": "1",
