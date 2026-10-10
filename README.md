@@ -2,7 +2,7 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **37개** (테스트 통과 36개)
+- 총 문제 수: **37개** (테스트 통과 37개)
 - 난이도별: Lv1 37개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
@@ -20,7 +20,7 @@
 | ✅ 테스트 통과 | [문자열 내 마음대로 정렬하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12915%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 7. 오전 4:27:39 |
 | ✅ 테스트 통과 | [문자열 내 p와 y의 개수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12916%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 3. 오전 10:10:29 |
 | ✅ 테스트 통과 | [문자열 내림차순으로 배치하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12917%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 7. 오전 4:16:12 |
-| 🔺 시도 중 | [부족한 금액 계산하기](programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/%5BLv1%5D%5B82612%5D%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | Lv1 | 위클리 챌린지 | 2026. 10. 10. 오후 9:37:34 |
+| ✅ 테스트 통과 | [부족한 금액 계산하기](programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/%5BLv1%5D%5B82612%5D%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | Lv1 | 위클리 챌린지 | 2026. 10. 10. 오후 9:38:50 |
 | ✅ 테스트 통과 | [서울에서 김서방 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12919%5D%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 3. 오전 11:33:42 |
 | ✅ 테스트 통과 | [수박수박수박수박수박수?](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12922%5D%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98_) | Lv1 | 연습문제 | 2026. 10. 3. 오전 10:42:13 |
 | ✅ 테스트 통과 | [숫자 문자열과 영단어](programmers/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%5BLv1%5D%5B81301%5D%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4) | Lv1 | 2021 카카오 채용연계형 인턴십 | 2026. 10. 8. 오후 6:23:09 |
