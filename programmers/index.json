@@ -234,6 +234,15 @@
     "lastRun": "2026-10-05T19:08:00.501Z"
   },
   {
+    "lessonId": "12969",
+    "title": "직사각형 별찍기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12969] 직사각형 별찍기",
+    "lastRun": "2026-10-10T12:58:21.015Z"
+  },
+  {
     "lessonId": "12937",
     "title": "짝수와 홀수",
     "level": "1",

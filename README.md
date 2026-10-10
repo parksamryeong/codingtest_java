@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **38개** (테스트 통과 38개)
-- 난이도별: Lv1 38개
+- 총 문제 수: **39개** (테스트 통과 39개)
+- 난이도별: Lv1 39개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -33,6 +33,7 @@
 | ✅ 테스트 통과 | [정수 내림차순으로 배치하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12933%5D%20%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 7. 오전 4:10:21 |
 | ✅ 테스트 통과 | [정수 제곱근 판별](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12934%5D%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84) | Lv1 | 연습문제 | 2026. 10. 4. 오후 4:42:20 |
 | ✅ 테스트 통과 | [제일 작은 수 제거하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12935%5D%20%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 6. 오전 4:08:00 |
+| ✅ 테스트 통과 | [직사각형 별찍기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12969%5D%20%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 10. 오후 9:58:21 |
 | ✅ 테스트 통과 | [짝수와 홀수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12937%5D%20%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:05:56 |
 | ✅ 테스트 통과 | [체육복](programmers/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/%5BLv1%5D%5B42862%5D%20%EC%B2%B4%EC%9C%A1%EB%B3%B5) | Lv1 | 탐욕법(Greedy) | 2026. 10. 10. 오후 6:40:41 |
 | ✅ 테스트 통과 | [최대공약수와 최소공배수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12940%5D%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 4. 오후 5:47:45 |
