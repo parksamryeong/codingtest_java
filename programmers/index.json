@@ -117,6 +117,15 @@
     "lastRun": "2026-10-06T19:16:12.002Z"
   },
   {
+    "lessonId": "82612",
+    "title": "부족한 금액 계산하기",
+    "level": "1",
+    "category": "위클리 챌린지",
+    "status": "failed",
+    "path": "programmers/위클리 챌린지/[Lv1][82612] 부족한 금액 계산하기",
+    "lastRun": "2026-10-10T12:37:34.886Z"
+  },
+  {
     "lessonId": "12919",
     "title": "서울에서 김서방 찾기",
     "level": "1",
