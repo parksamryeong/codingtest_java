@@ -63,6 +63,15 @@
     "lastRun": "2026-10-08T05:46:31.142Z"
   },
   {
+    "lessonId": "12912",
+    "title": "두 정수 사이의 합",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12912] 두 정수 사이의 합",
+    "lastRun": "2026-10-10T09:46:21.947Z"
+  },
+  {
     "lessonId": "77484",
     "title": "로또의 최고 순위와 최저 순위",
     "level": "1",
