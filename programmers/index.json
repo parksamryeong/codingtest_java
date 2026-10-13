@@ -198,6 +198,15 @@
     "lastRun": "2026-10-02T14:09:06.052Z"
   },
   {
+    "lessonId": "86051",
+    "title": "없는 숫자 더하기",
+    "level": "1",
+    "category": "월간 코드 챌린지 시즌3",
+    "status": "passed",
+    "path": "programmers/월간 코드 챌린지 시즌3/[Lv1][86051] 없는 숫자 더하기",
+    "lastRun": "2026-10-13T09:11:59.204Z"
+  },
+  {
     "lessonId": "42576",
     "title": "완주하지 못한 선수",
     "level": "1",
