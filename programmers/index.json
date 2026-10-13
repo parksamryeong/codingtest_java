@@ -216,6 +216,15 @@
     "lastRun": "2026-10-03T12:48:19.520Z"
   },
   {
+    "lessonId": "76501",
+    "title": "음양 더하기",
+    "level": "1",
+    "category": "월간 코드 챌린지 시즌2",
+    "status": "passed",
+    "path": "programmers/월간 코드 챌린지 시즌2/[Lv1][76501] 음양 더하기",
+    "lastRun": "2026-10-13T09:17:32.181Z"
+  },
+  {
     "lessonId": "12930",
     "title": "이상한 문자 만들기",
     "level": "1",
