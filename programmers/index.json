@@ -162,6 +162,15 @@
     "lastRun": "2026-10-03T02:33:42.275Z"
   },
   {
+    "lessonId": "12921",
+    "title": "소수 찾기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12921] 소수 찾기",
+    "lastRun": "2026-10-13T16:40:08.317Z"
+  },
+  {
     "lessonId": "12922",
     "title": "수박수박수박수박수박수?",
     "level": "1",
