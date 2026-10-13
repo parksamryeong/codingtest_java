@@ -27,6 +27,15 @@
     "lastRun": "2026-10-09T18:14:09.095Z"
   },
   {
+    "lessonId": "12906",
+    "title": "같은 숫자는 싫어",
+    "level": "1",
+    "category": "스택/큐",
+    "status": "unknown",
+    "path": "programmers/스택_큐/[Lv1][12906] 같은 숫자는 싫어",
+    "lastRun": "2026-10-13T09:29:22.701Z"
+  },
+  {
     "lessonId": "12910",
     "title": "나누어 떨어지는 숫자 배열",
     "level": "1",
