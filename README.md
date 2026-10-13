@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **46개** (테스트 통과 45개)
-- 난이도별: Lv1 46개
+- 총 문제 수: **47개** (테스트 통과 46개)
+- 난이도별: Lv1 47개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -25,6 +25,7 @@
 | ✅ 테스트 통과 | [문자열을 정수로 바꾸기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12925%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 10. 오후 11:30:15 |
 | ✅ 테스트 통과 | [부족한 금액 계산하기](programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/%5BLv1%5D%5B82612%5D%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | Lv1 | 위클리 챌린지 | 2026. 10. 10. 오후 9:38:50 |
 | ✅ 테스트 통과 | [서울에서 김서방 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12919%5D%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 3. 오전 11:33:42 |
+| ✅ 테스트 통과 | [소수 만들기](programmers/Summer_Winter%20Coding(~2018)/%5BLv1%5D%5B12977%5D%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0) | Lv1 | Summer/Winter Coding(~2018) | 2026. 10. 14. 오전 1:59:10 |
 | ✅ 테스트 통과 | [소수 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12921%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 14. 오전 1:40:08 |
 | ✅ 테스트 통과 | [수박수박수박수박수박수?](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12922%5D%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98_) | Lv1 | 연습문제 | 2026. 10. 3. 오전 10:42:13 |
 | ✅ 테스트 통과 | [숫자 문자열과 영단어](programmers/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%5BLv1%5D%5B81301%5D%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4) | Lv1 | 2021 카카오 채용연계형 인턴십 | 2026. 10. 8. 오후 6:23:09 |
