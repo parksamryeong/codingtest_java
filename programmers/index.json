@@ -90,6 +90,15 @@
     "lastRun": "2026-10-10T09:46:21.947Z"
   },
   {
+    "lessonId": "155652",
+    "title": "둘만의 암호",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][155652] 둘만의 암호",
+    "lastRun": "2026-10-15T20:26:30.112Z"
+  },
+  {
     "lessonId": "77484",
     "title": "로또의 최고 순위와 최저 순위",
     "level": "1",
