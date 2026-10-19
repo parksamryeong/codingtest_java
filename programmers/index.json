@@ -466,5 +466,14 @@
     "status": "passed",
     "path": "programmers/연습문제/[Lv1][12954] x만큼 간격이 있는 n개의 숫자",
     "lastRun": "2026-10-02T14:26:35.430Z"
+  },
+  {
+    "lessonId": "42577",
+    "title": "전화번호 목록",
+    "level": "2",
+    "category": "해시",
+    "status": "passed",
+    "path": "programmers/해시/[Lv2][42577] 전화번호 목록",
+    "lastRun": "2026-10-19T00:46:43.216Z"
   }
 ]
