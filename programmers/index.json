@@ -468,6 +468,15 @@
     "lastRun": "2026-10-02T14:26:35.430Z"
   },
   {
+    "lessonId": "42578",
+    "title": "의상",
+    "level": "2",
+    "category": "해시",
+    "status": "passed",
+    "path": "programmers/해시/[Lv2][42578] 의상",
+    "lastRun": "2026-10-19T06:50:33.225Z"
+  },
+  {
     "lessonId": "42577",
     "title": "전화번호 목록",
     "level": "2",
