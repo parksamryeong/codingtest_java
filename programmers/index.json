@@ -486,6 +486,15 @@
     "lastRun": "2026-10-02T14:26:35.430Z"
   },
   {
+    "lessonId": "12909",
+    "title": "올바른 괄호",
+    "level": "2",
+    "category": "스택/큐",
+    "status": "passed",
+    "path": "programmers/스택_큐/[Lv2][12909] 올바른 괄호",
+    "lastRun": "2026-10-20T11:58:35.526Z"
+  },
+  {
     "lessonId": "42578",
     "title": "의상",
     "level": "2",
