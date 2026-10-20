@@ -126,6 +126,15 @@
     "lastRun": "2026-10-08T15:11:32.204Z"
   },
   {
+    "lessonId": "140108",
+    "title": "문자열 나누기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][140108] 문자열 나누기",
+    "lastRun": "2026-10-20T12:44:24.515Z"
+  },
+  {
     "lessonId": "12915",
     "title": "문자열 내 마음대로 정렬하기",
     "level": "1",

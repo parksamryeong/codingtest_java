@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **57개** (테스트 통과 56개)
-- 난이도별: Lv1 54개 · Lv2 3개
+- 총 문제 수: **58개** (테스트 통과 57개)
+- 난이도별: Lv1 55개 · Lv2 3개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -21,6 +21,7 @@
 | ✅ 테스트 통과 | [둘만의 암호](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B155652%5D%20%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8) | Lv1 | 연습문제 | 2026. 10. 16. 오전 5:26:30 |
 | ✅ 테스트 통과 | [로또의 최고 순위와 최저 순위](programmers/2021%20Dev-Matching_%20%EC%9B%B9%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90(%EC%83%81%EB%B0%98%EA%B8%B0)/%5BLv1%5D%5B77484%5D%20%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84) | Lv1 | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) | 2026. 10. 9. 오후 10:55:01 |
 | ✅ 테스트 통과 | [모의고사](programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%5BLv1%5D%5B42840%5D%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC) | Lv1 | 완전탐색 | 2026. 10. 9. 오전 12:11:32 |
+| ✅ 테스트 통과 | [문자열 나누기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B140108%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 20. 오후 9:44:24 |
 | ✅ 테스트 통과 | [문자열 내 마음대로 정렬하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12915%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 7. 오전 4:27:39 |
 | ✅ 테스트 통과 | [문자열 내 p와 y의 개수](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12916%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98) | Lv1 | 연습문제 | 2026. 10. 3. 오전 10:10:29 |
 | ✅ 테스트 통과 | [문자열 내림차순으로 배치하기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12917%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0) | Lv1 | 연습문제 | 2026. 10. 7. 오전 4:16:12 |
