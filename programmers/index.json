@@ -504,6 +504,15 @@
     "lastRun": "2026-10-21T07:07:10.573Z"
   },
   {
+    "lessonId": "42583",
+    "title": "다리를 지나는 트럭",
+    "level": "2",
+    "category": "스택/큐",
+    "status": "passed",
+    "path": "programmers/스택_큐/[Lv2][42583] 다리를 지나는 트럭",
+    "lastRun": "2026-10-21T12:27:54.875Z"
+  },
+  {
     "lessonId": "12909",
     "title": "올바른 괄호",
     "level": "2",
