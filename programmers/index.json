@@ -540,6 +540,15 @@
     "lastRun": "2026-10-19T00:46:43.216Z"
   },
   {
+    "lessonId": "42584",
+    "title": "주식가격",
+    "level": "2",
+    "category": "스택/큐",
+    "status": "passed",
+    "path": "programmers/스택_큐/[Lv2][42584] 주식가격",
+    "lastRun": "2026-10-21T13:50:59.394Z"
+  },
+  {
     "lessonId": "42587",
     "title": "프로세스",
     "level": "2",
