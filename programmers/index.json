@@ -529,5 +529,14 @@
     "status": "passed",
     "path": "programmers/해시/[Lv2][42577] 전화번호 목록",
     "lastRun": "2026-10-19T00:46:43.216Z"
+  },
+  {
+    "lessonId": "42587",
+    "title": "프로세스",
+    "level": "2",
+    "category": "스택/큐",
+    "status": "passed",
+    "path": "programmers/스택_큐/[Lv2][42587] 프로세스",
+    "lastRun": "2026-10-21T07:43:51.534Z"
   }
 ]
