@@ -495,6 +495,15 @@
     "lastRun": "2026-10-02T14:26:35.430Z"
   },
   {
+    "lessonId": "42586",
+    "title": "기능개발",
+    "level": "2",
+    "category": "스택/큐",
+    "status": "passed",
+    "path": "programmers/스택_큐/[Lv2][42586] 기능개발",
+    "lastRun": "2026-10-21T07:07:10.573Z"
+  },
+  {
     "lessonId": "12909",
     "title": "올바른 괄호",
     "level": "2",
