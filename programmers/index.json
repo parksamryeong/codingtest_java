@@ -495,6 +495,15 @@
     "lastRun": "2026-10-02T14:26:35.430Z"
   },
   {
+    "lessonId": "1844",
+    "title": "게임 맵 최단거리",
+    "level": "2",
+    "category": "깊이/너비 우선 탐색(DFS/BFS)",
+    "status": "passed",
+    "path": "programmers/깊이_너비 우선 탐색(DFS_BFS)/[Lv2][1844] 게임 맵 최단거리",
+    "lastRun": "2026-10-24T02:04:07.138Z"
+  },
+  {
     "lessonId": "42586",
     "title": "기능개발",
     "level": "2",

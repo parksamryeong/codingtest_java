@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **66개** (테스트 통과 65개)
-- 난이도별: Lv1 55개 · Lv2 11개
+- 총 문제 수: **67개** (테스트 통과 66개)
+- 난이도별: Lv1 55개 · Lv2 12개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -62,6 +62,7 @@
 | ✅ 테스트 통과 | [행렬의 덧셈](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12950%5D%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88) | Lv1 | 연습문제 | 2026. 10. 6. 오전 4:39:05 |
 | ✅ 테스트 통과 | [K번째수](programmers/%EC%A0%95%EB%A0%AC/%5BLv1%5D%5B42748%5D%20K%EB%B2%88%EC%A7%B8%EC%88%98) | Lv1 | 정렬 | 2026. 10. 8. 오후 2:36:07 |
 | ✅ 테스트 통과 | [x만큼 간격이 있는 n개의 숫자](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12954%5D%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90) | Lv1 | 연습문제 | 2026. 10. 2. 오후 11:26:35 |
+| ✅ 테스트 통과 | [게임 맵 최단거리](programmers/%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89(DFS_BFS)/%5BLv2%5D%5B1844%5D%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) | Lv2 | 깊이/너비 우선 탐색(DFS/BFS) | 2026. 10. 24. 오전 11:04:07 |
 | ✅ 테스트 통과 | [기능개발](programmers/%EC%8A%A4%ED%83%9D_%ED%81%90/%5BLv2%5D%5B42586%5D%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) | Lv2 | 스택/큐 | 2026. 10. 21. 오후 4:07:10 |
 | ✅ 테스트 통과 | [다리를 지나는 트럭](programmers/%EC%8A%A4%ED%83%9D_%ED%81%90/%5BLv2%5D%5B42583%5D%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD) | Lv2 | 스택/큐 | 2026. 10. 21. 오후 9:27:54 |
 | ✅ 테스트 통과 | [소수 찾기](programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%5BLv2%5D%5B42839%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0) | Lv2 | 완전탐색 | 2026. 10. 23. 오전 10:32:23 |
